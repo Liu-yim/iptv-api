@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-15 18:15:18,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-16 06:12:44,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
@@ -9,7 +9,6 @@ CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
-CCTV-10,http://61.184.46.85:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
 CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
 CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
@@ -21,7 +20,6 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-广西卫视,http://sh.lnott.top:880/dx41.m3u8
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -46,6 +44,16 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 
 🪁动画频道,#genre#
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
+少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
+少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
+金鹰卡通,http://101.66.199.43:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
