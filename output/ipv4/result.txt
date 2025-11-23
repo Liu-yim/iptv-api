@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-23 18:15:41,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-24 06:15:27,http://bxtv.3a.ink/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
@@ -59,4 +59,7 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,http://www.douzhicloud.site:35455/huya/26355790
+天龙八部,http://www.douzhicloud.site:35455/huya/20985816
 仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
+三国演义,http://www.douzhicloud.site:35455/huya/11602081
