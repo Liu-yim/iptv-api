@@ -1,18 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-24 06:15:27,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-24 18:18:36,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 
 📺央视频道,#genre#
-CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
-CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
-CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
-CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
-CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
-CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
-CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
-CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
-CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
-CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
-CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 
 💰央视付费频道,#genre#
@@ -43,15 +32,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 
 🪁动画频道,#genre#
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
-少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
-少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
@@ -59,7 +39,4 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,http://www.douzhicloud.site:35455/huya/26355790
-天龙八部,http://www.douzhicloud.site:35455/huya/20985816
 仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
-三国演义,http://www.douzhicloud.site:35455/huya/11602081
