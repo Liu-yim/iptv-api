@@ -1,18 +1,17 @@
 🕘️更新时间,#genre#
-2025-12-27 06:15:55,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
+2025-12-27 18:16:13,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
-CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 CCTV-6,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
-CCTV-9,https://v4-681c4e93f62c2089d39b368c6a1858bd.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4e4c848184af8ffcd00b7e0780256191
 CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
-CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
+CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 💰央视付费频道,#genre#
 风云音乐,http://171.83.103.119:9999/rtp/239.69.1.90:10180
@@ -22,8 +21,8 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
 
 📡卫视频道,#genre#
-湖南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 北京卫视,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 重庆卫视,http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
@@ -41,15 +40,12 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
-靖天映画,http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
-靖天戏剧,http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-龙祥电影,http://zb.hpc.tw/smtv.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 
@@ -57,7 +53,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🪁动画频道,#genre#
 少儿动画,http://182.123.208.170:12345/rtp/225.1.4.189:1238
-金鹰卡通,http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://124.228.160.14:9901/tsfile/live/0011_1.m3u8
 
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
