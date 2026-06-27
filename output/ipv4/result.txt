@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-27 19:24:37,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-28 06:58:51,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -17,23 +17,20 @@ CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
-湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=737d49d36d25402fc57210b67903c168&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://204.12.221.218:8181/3m1080p/haws.m3u8
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
-吉林卫视,http://204.12.221.218:8181/3m1080p/jlws.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://192.151.150.154/live/sdwshd.m3u8
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
-云南卫视,http://fuxin.yunjifei.top:999/tsfile/live/0119_1.m3u8?key=txiptv
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
